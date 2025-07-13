@@ -1,0 +1,10 @@
+Handuk kecil$5000$2$ocaa
+Handuk besar$10000$1$ocaa
+Handuk kecil$5000$2$ocaa
+Handuk besar$10000$1$ocaa
+Handuk kecil$5000$2$vira
+Handuk kecil$5000$1$ocaa
+Jaket$15000$1$ocaa
+Sweater$12000$1$vira
+Handuk kecil$5000$1$vira
+Topi$7000$2$ahmad
